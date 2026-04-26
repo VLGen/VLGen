@@ -36,7 +36,7 @@
 
 - Телеграм бот с простым квизом (https://github.com/VLGen/TgBot)
 - Модель классификации успешности игры (https://github.com/VLGen/Classifying-Game-Success-with-XGBoost)
-
+- Предсказание успешности видеоигр в виде чат-бота (https://github.com/VLGen/Game-Success-Predictor)
 ---
 
 ## 🎯 Мои цели
