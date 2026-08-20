@@ -1,6 +1,6 @@
 # 👋 Привет! Я Сергей
 
-## 🧠 Data Analyst & ML Engineer (Junior)
+## 🧠 Junior AI / ML Engineer | Python | LLM & RAG
 
 Работаю с данными и моделями машинного обучения, создаю понятные и надёжные решения на Python.  
 Сочетаю аналитический подход с инженерным мышлением: обрабатываю данные, строю визуализации, обучаю модели и объясняю результаты простым языком.
@@ -10,14 +10,9 @@
 ## 🔧 Технологии и инструменты
 
 - **Python**
-- **pandas**, **numpy**
-- **Scikit-learn**
 - **TensorFlow**, **Keras**
 - **Matplotlib**, **Seaborn**
-- **OpenCV**
-- **Jupyter Notebook**
 - **LlamaIndex**
-- **Gradio**
 
 ---
 
@@ -34,7 +29,6 @@
 
 ## 📂 Проекты
 
-- Телеграм бот с простым квизом (https://github.com/VLGen/TgBot)
 - Модель классификации успешности игры (https://github.com/VLGen/Classifying-Game-Success-with-XGBoost)
 - Предсказание успешности видеоигр в виде чат-бота (https://github.com/VLGen/Game-Success-Predictor)
 ---
