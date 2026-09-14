@@ -79,6 +79,7 @@
 * исследование и оценка различных подходов к RAG.
 
 Ключевые технологии: Python · LlamaIndex · RAG · LLM · Embeddings · BM25 · Vector Search · Hugging Face
+
 **Ссылка:** https://github.com/VLGen/AI-mentor
 
 ### AI Voice-Controlled Cooking Assistant
@@ -99,7 +100,9 @@
 * работа с рецептами и таймерами.
 
 Стек: Python · Vosk · Transformers · Vikhr-Qwen · pyttsx3 · Sounddevice · JSON
+
 **Ссылка:** https://github.com/VLGen/AI-Voice-controlled-cooking-assistant
+
 ---
 
 ## Что я умею:
