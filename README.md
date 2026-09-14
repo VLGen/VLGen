@@ -61,6 +61,8 @@
 
 **Ссылка:** https://llm-engineer-portfolio-dusky.vercel.app/
 
+---
+
 ### AI Mentor
 
 **AI-ментор для обучения программированию на основе RAG.**
@@ -81,6 +83,8 @@
 Ключевые технологии: Python · LlamaIndex · RAG · LLM · Embeddings · BM25 · Vector Search · Hugging Face
 
 **Ссылка:** https://github.com/VLGen/AI-mentor
+
+---
 
 ### AI Voice-Controlled Cooking Assistant
 
